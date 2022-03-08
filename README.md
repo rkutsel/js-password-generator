@@ -1,8 +1,8 @@
-# JavaScript Password Generator
+# [JavaScript Password Generator](https://rkutsel.github.io/js-password-generator/)
 
 ## Description
 
-This repository holds week III homework assignment. The main function that generates random passwords relies on user input and covers a few edge cases. 
+This repository holds week III homework assignment for [JavaScript Password Generator app](https://rkutsel.github.io/js-password-generator/). The main function that generates random passwords relies on user input and covers a few edge cases. 
 Additionally, I added JS alerts for the edge cases that result in a popup window with an error message along with additional information generated on the page to help the user make corrective actions. The JS code has comments with descriptive changes. 
 
 
